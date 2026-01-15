@@ -1,28 +1,109 @@
-# .gitignore for WINDEV, WEBDEV and WINDEV Mobile projects
-#
-# WINDEV – WEBDEV – WINDEV Mobile
-Backup
-Bin
-cache.gestion de sources
-Corbeille
-Groupware
-Lastsave
-Sauvegarde
-.tmp
-*.cache
-*.cpl
+####################################
+# WinDev / WebDev / WinDev Mobile
+####################################
+
+# Pastas de compilação / geração automática
+*.exe
+*.wdg
+*.wdk
+*.wdd
+*.wdl
+*.wdp.bak
+*.wdp~
+*.bak
+*.tmp
+*.cpl/
 *.env
+*.wdw.cache
+*.eu.emf
+*.xdd
+*.sem
+*.ver
+
+# Cache do WinDev
+Cpl/
+Deploy/
+Exe/
+Compil/
+Compilation/
+Generation/
+Generated/
+Gen/
+Temp/
+Backup/*
+Bkp*
+Tmp/
+*/lastsave/*
+*/LASTGEN/*
+*/ANA*
+
+
+# Pastas locais do ambiente
+.versinfo/
+.__wd/
+.__wdd/
+.__wde/
+.__wdb/
+.__wds/
+
+####################################
+# Banco de dados local / HFSQL
+####################################
+*.fic
+*.ndx
+*.mm
+*.log
+*.journal
+*.hft
+*.hfs
+*.hfi
+*.hf?
 *.rep
-*.waudit
-*.wdcoverage
-*.wpf
-HstDuree.log
-#
-#WEBDEV
-*\res
-*.awl
-*.awp
-#
-# WINDEV Mobile 
-android
-*.xcode.gen
+
+####################################
+# Logs
+####################################
+*.log
+Logs/
+log/
+
+####################################
+# Configurações locais (máquina)
+####################################
+*.ini
+*.cfg
+*.local
+*.user
+
+# (opcional) se usar arquivos de conexão locais
+connexion.ini
+database.ini
+
+####################################
+# Sistema operacional
+####################################
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Mac
+.DS_Store
+
+####################################
+# IDEs / editores
+####################################
+.vscode/
+.idea/
+*.swp
+
+####################################
+# Backup automático
+####################################
+Backup/
+Backups/
+Sauvegarde/
+
+#database.ini
+#connexion.ini
+
+Teste9999999.wdp.cache
