@@ -10,7 +10,7 @@ info :
 window :
  name : WIN_Teste_Principal
  identifier : 0x2968e6680374f265
- internal_properties : CQAAAAkAAAASEYuO7Pb0Ji65NSB8yx5hkqEm2elEk89431SdeoLVZkTk9bk27kjGtZQZgIDbk7EHnstyPk3Zxm/PFz2ix0TeZHQM5JSZL9JFCQLPyFkfs8ZrhsNh8M+vDRPf20Ud3CMS0dEVpi+SvK7R+IDWDpZloVSx+xSJ62QWx6c/6G+Lr6dja8JQZ4Nz+vW8i902Byp9OTwRBiAdrjtU7Uhoh7VrL2USr0Y7kAYQ1udne72u7O2zW3AMJaC/zvL/wYwN8rkgW7GLRkKbKuXL+pwzKeuhYUYTEuBerUA2zEq/MmBzfEb0XXT7YCIbIlefUmPfO/j+6Cyj0OKKZC9NYoWTa3zT09WB6QAkk68FWufAhbZEJQ9xagVqyy2OxaTPIG96ekiu0xOCjsx6TJhWVkh/rgAZNlssrYKDJHolGEoo1Yloyk3szUwsTUXXZ9r+ZZVAyIwsKJAMITwPxDi9oZSViriTD7aff2zGhRuJ2SgLgKHYr0iAdybdYL2V2xMJ5bKbcPg5pnNyUBmn23u+iAKuF3YZpv2vWknd2ojpOFiggtj+8qaSVXkwTxF7g8+KvYOUitQRRZYcELeng/G9uzadPkaace+m+utDeFlrW6s/QDNrWId58wgqMxAlAxUhWsJPsmxlepQN7dDOooyqviXYtCMt4zNkomKMZ9kRTdAkAdu69II3QgPR95aq0NPHvuALaba0OqnuogCaqV3kgfKpHg==
+ internal_properties : CQAAAAkAAAC/dIvkB70MabfNUiQW+/712FG9CKWFKkjIo2v1J7kg2pz+hC4oFJG7p+5Pd5oJcDdBTE99PZeAcAme1uKeYbzGpcyJbYfDh5y8HsuiWXoghTZS13E6tu35qeRmIoEWGNoAKH0g70OLgprInq98QdaKqwgaufj3VGqoP4KUNG8YRHJE/RBMNaXw7ka0aisGLgcgk7q9Tu/8sIlH1q4bD8ElEtRzD59HbVG/sqXvA9iRR4KYq95cr3kIkrG+bKce5MsArKMAJHUdDBBB0zSKaZxMfVhMI5RVAnI6s6PfGzi1orL+gKAFBBa+sfFVxsrvyDiOq91vuXjbVETzi/AD0gFsx9iznQ1EJCTtIvU6yzwZ5L3UIbhAae9b7Q+H+SJM1HOouPx7dj7sTyZVuhsgVPLwPpQhDkDhxm3/ceb9kAncxxeTcKckHQGCgwPq0CI4KHlsBYHhjW4loRToh0UcFh4c+QWCSnakXZ5P3NCc231YgkwnqgEB/jm6fzTFqmlvXo1t+eKVxEOLjoP3/sNRez64hH78e1FzOh3HE+Y7Z4qaFz5ftjo+uaPgD2juUFTgcjkjIvdxEG1RvOVyE8WCHAIjCZAD//OvEHwPHjnS1Uv133GMGsPMjXbkkaR9323FAplBMcdgPcScYey5AFLLzKM2reyZ56yWb1LzktBtiDM2PZiuve5pJ8QJknjHralX36V2kXSZCM42lGUNjXWSEqg=
  properties :
   width : 800
   height : 600
@@ -30,6 +30,11 @@ window :
     code_elements :
      type_code : 4
      p_codes :
+      -
+        code : |1+
+         info("Botão Clicado")
+         
+        type : 18
       -
         type : 161
         enabled : false
