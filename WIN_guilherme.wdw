@@ -22,8 +22,8 @@ window :
     identifier : 0x2968eb1d0bd453e7
     internal_properties : CQAAAAkAAAAtfdVu36oWovY0UOeawINWp5+O+jbsySbyrp1kqzWkgaLrsO1xAQPvEoazZktD1RprH0NTYD3176I7ylfuwEYklI11REjW2qwbQDuTI9rM49q95PgM4cGeO9/ycr7MCnJi92XeT9ENTuXFGYL0avTz4tpzedYSYeioEneqL/EgG12O/2AT4RP+OP6mYWGZijJ+w+sxd+FmH4VLCu0b94pMrJPtC1Aswvkh0cU/jBA9gIfticuH9D0bKXYf1TsL5iodL0gpr/XMwOqoP7FYuwBcInlVHlYv5mw/oVRogC2V+nyG6bRasvnoO4YOsyz8q4VLO2kw+XQQUeSTl7W+eHUUbvu2GjdYrLM4Ni248HTHEpt2y9SkElRTuKaIiY2IXZ4xagKFb1YJMJcgnsQz5VHPQ/+M5dNt+9M8VhYmH7dv7hsarZ2fgMqiASk5uouYxePP7rT3exkLnTEA5YnRGHJKzo0I3cShHLU24/CqkZBPdr1vcglYhjjamGQc956s6+B1djE0FJpAJOYBqHNtl+XI5MdzU1F3G+GXXoW2y3ghwzx1/ksHKDwccSOTMAElZKBYyXYFDNZUX08sz6rxklhentY5qjdcTptLjjpLjnJnPodOjdLZKvpo6tqxIMprPIw/jGyM1aFOmWrEdQYa7KwA6/PZhKZC6dFHqVvnm223Prcfh7aSmp57s9ymCncQ5ky48ok1P0c9PBFRZoiQBXjxl1vOlQ0B7xFwqLv1uHlAwATwoAZsuveRq1124eBHSLuVvP1rdqxD8x2gpTaPnBh64JgCTLT1r/ceAFEZKvigPfst91LjB/n/2CNZFafm+8KB5ee4LJVewNtii2uv0B8yJw==
     properties :
-     x : 437
-     y : 60
+     x : 336
+     y : 107
      width : 106
      height : 31
     type : 4
@@ -42,8 +42,8 @@ window :
     identifier : 0x2968eb1f0bd85e37
     internal_properties : CQAAAAkAAAClY7vspJS0TmwEiaqtyg2EkZcUnFOZr4LIsNkU7m6S6sNFnDSz8ijIoVi/6U4W/1LJs3ZHVRqVKTO1yzJ6+X4+OVDHK8772ZQwA1oxH0PiU/Bml6wIlt6LMYhqNG4Ehraoc0tdXX9rpz+rElGqWibsPetNLLPCy0Ci5f6RIQjGlSfFYMygSLeF2RYLnQfUqDoWvYWtpj0s56uD1J8G9DulN1uK/RQQ9LNq19sV9hw8RJA2y5itIepV06WmL0/3YzuwZmw06Eo2kwJDhIyDQaV+kCroQzpKSfst/MyqWc7y0Pk43uSn+23vAwxjZS5iwvg/d4DqBr7OtKKLs/DWAQAsb4o8PatFWaa7ZE/vcUC4h6sHiRKzKk+QL1YTyiRwWrT9VZbURYX8xR3I4uVvVN2qKU4bOQQM7gxu3+5eCBMBLBDa4CmqCV9MJ10GpnpO7ow7Tk+pVmrkCYG+rM1cWoltxsNjwW3Lpqvmm4FOLLCcc6OzYd0hqQNW2mpp89FO6OExgFJAyXEzkohFIcPy3T6ZnsGi5RCE3aftGr7Q0oxagKI9n+vYy/MOp1vuHla7vw/em0nvicWHK9/ghKowiDsBfjLmvMJlWx2vesMngaLk++k8CpJ4/8tc1Mb61sepf2+hsLUECAon1fwiSExF5KcDncEQILF7muEJySaZilHi7btjBnZ1E2+xPS5T5tri7WeW6D5BgBKYQDdpfqpUxAE619oXfCyoY6UBskggMOJ33G7E/LPkOV8FuQo9ywRsrDSRiG1r1Eajl5yZi0q9BKP14DDmP9rWEvTbmwNP013Ww0Gy5eiwk7XAKNJLCEs45IdyhP8HSczphqBoJ3l51SpwmKw=
     properties :
-     x : 394
-     y : 380
+     x : 336
+     y : 234
      width : 106
      height : 31
     type : 4
@@ -52,7 +52,7 @@ window :
      p_codes :
       -
         code : |1+
-         info("B2 Clicado 9999999999999999999999999999")
+         info("B2 Clicado")
         type : 18
       -
         type : 161
