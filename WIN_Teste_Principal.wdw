@@ -10,13 +10,29 @@ info :
 window :
  name : WIN_Teste_Principal
  identifier : 0x2968e6680374f265
- internal_properties : CQAAAAkAAACGChTkF8givN6Ic3twch9C1qoZlKqfYKTVOqHu+l22x0H9tIJq+I2RTWpsXdycSINjcVB4CIY5JvLG2f82eVStyEMlPX53DdPGFsvKoQDdSf/22gxlXkGzotja79S/40NbyZSCOvgaxrndL+bbgG9Dedk156i8vzZQ1MD37uL+slrxx+SUWxAva9t14+OL1Jkb6069I31JnoCdbzn8l+W6zpQ05gz2lymA+ItXiCZXWXyV5wYoGPsj9/voTh8XXBUl25RxA5jDFX2C4sHfWChxkxfqiFWt8TD9s+ImkLIJTMzXCVjPRPUWlKWPAz1EN3obfSy84lOEFyXWfxuACqkvEjetxpQT4hf7DD9iRQF5iHVDbla5Vi/ZQ0/TnoL9NDfIGetJiefkrUwtLkZAB5ZsXmeSMm3eDp3LI9ysSgpAU68KUemj8FVEvUXYEZqlODHAQIbnuBs5IZgSHc7OPVbsDUB/wO8bTzABvm7Lo2QGLqSY1aOSj2cu54zZqx+mAMuPSNt/8UBHlOFvmgrpkoRm9nkJoUQajm9h9XweWZ1qI54ec2L3hsESuXi6s17DAJP5SfgtLVSJRFGCZwhWmUjbrV/glYDc7PpVqgnzHR6Pv82jk4cLcKaCf8SpiCU03tsv8L/9vQYhDPW/8u7qsiGaQwozoHy7c/cgRrTSUxDP7KqdDDlN18AavN7EGj7BpIo2WnhtflY58q16yfsb
+ internal_properties : CQAAAAkAAAASEYuO7Pb0Ji65NSB8yx5hkqEm2elEk89431SdeoLVZkTk9bk27kjGtZQZgIDbk7EHnstyPk3Zxm/PFz2ix0TeZHQM5JSZL9JFCQLPyFkfs8ZrhsNh8M+vDRPf20Ud3CMS0dEVpi+SvK7R+IDWDpZloVSx+xSJ62QWx6c/6G+Lr6dja8JQZ4Nz+vW8i902Byp9OTwRBiAdrjtU7Uhoh7VrL2USr0Y7kAYQ1udne72u7O2zW3AMJaC/zvL/wYwN8rkgW7GLRkKbKuXL+pwzKeuhYUYTEuBerUA2zEq/MmBzfEb0XXT7YCIbIlefUmPfO/j+6Cyj0OKKZC9NYoWTa3zT09WB6QAkk68FWufAhbZEJQ9xagVqyy2OxaTPIG96ekiu0xOCjsx6TJhWVkh/rgAZNlssrYKDJHolGEoo1Yloyk3szUwsTUXXZ9r+ZZVAyIwsKJAMITwPxDi9oZSViriTD7aff2zGhRuJ2SgLgKHYr0iAdybdYL2V2xMJ5bKbcPg5pnNyUBmn23u+iAKuF3YZpv2vWknd2ojpOFiggtj+8qaSVXkwTxF7g8+KvYOUitQRRZYcELeng/G9uzadPkaace+m+utDeFlrW6s/QDNrWId58wgqMxAlAxUhWsJPsmxlepQN7dDOooyqviXYtCMt4zNkomKMZ9kRTdAkAdu69II3QgPR95aq0NPHvuALaba0OqnuogCaqV3kgfKpHg==
  properties :
   width : 800
   height : 600
   widthClient : 798
   heightClient : 568
- controls : []
+ controls :
+  -
+    name : BTN_Teste
+    identifier : 0x2968e6ae03c30462
+    internal_properties : CQAAAAkAAAB8uA0PPLLv3fZX7HeNxb2yD0f+PaGmhYoMABDlMI1vrEpFTeFijGx7V/uVemc1giNUGmYDiYA989zNeASrnUqxlCJvB3ge+kc021UFZr1u8CkfLKTj2dQ2mJBmtpayiQlCM5yrLdvWtRsQJi1AsbtNIrYlLKi5qxEzoQBwzyQtxRYzVV85eML750m50wmdufMs1Xtejysm4S3zD5KT2spb3n8JJkwbUF0jmT2vVlI9SgAN1T5M3jvWbPU/as0TXWEud7aSPIoMLqoqcd/hc5VQeSiQ0BGZXdvvO0CHW9T9XWJ8VZe3PEzEmuVC+xC1afNl4RaLYH586NgBJFF8VLztnsHaYiQihjExzqHmLElA2k/U3Ic3HuncvB6t5Up4E1nTbcBGt8tVYpOB2McZI/0M1OAUhtfnlGT6GzzrrFuqa6VNyB2X6juT5G6mSrXeIgEczVsa1qxFkWTHPGFaiaoJ+C1ot25MsnwCcU61RnkJRSMhfKdmJofjMBxETI2v1eWj7B8AwPjbPWpzGgZ+dsN/Fs87V32Jm+y9SjHhzM91hCj1rkGlTGHDlSuTtdjm5hdw2+DbalbToOX0DxvIu15jFsbpPjOuNWZxtNBuUysFlc0c86ZVUN0r6oyr6WlS+MWdtMR4mS+fUJSIscepU+aHmwWbEtyehi4prZ/kTjK5O+95ST7SdH2WSwBSW2Yb4HPIbt2nKfuctSeJ74UMfxDi+ZYwWDVtL1RHZjcd2KX6Ro4GMQuRAmPGk0JSii6P0cRbsK7Dl3zgZnzD8vfBwxR35ErF6z31QFN3A4IxhkeQbHpX/8HqY+IKY2WPCAgGSPNZs2WgVM7L1SoKkGlzPvqwehSBCU4IXw==
+    properties :
+     x : 324
+     y : 201
+     width : 106
+     height : 31
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        type : 161
+        enabled : false
  menu :
   name : _Menu
   identifier : 0x292573e513b5f221
