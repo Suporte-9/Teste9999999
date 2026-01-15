@@ -42,8 +42,8 @@ window :
     identifier : 0x2968eb1f0bd85e37
     internal_properties : CQAAAAkAAAClY7vspJS0TmwEiaqtyg2EkZcUnFOZr4LIsNkU7m6S6sNFnDSz8ijIoVi/6U4W/1LJs3ZHVRqVKTO1yzJ6+X4+OVDHK8772ZQwA1oxH0PiU/Bml6wIlt6LMYhqNG4Ehraoc0tdXX9rpz+rElGqWibsPetNLLPCy0Ci5f6RIQjGlSfFYMygSLeF2RYLnQfUqDoWvYWtpj0s56uD1J8G9DulN1uK/RQQ9LNq19sV9hw8RJA2y5itIepV06WmL0/3YzuwZmw06Eo2kwJDhIyDQaV+kCroQzpKSfst/MyqWc7y0Pk43uSn+23vAwxjZS5iwvg/d4DqBr7OtKKLs/DWAQAsb4o8PatFWaa7ZE/vcUC4h6sHiRKzKk+QL1YTyiRwWrT9VZbURYX8xR3I4uVvVN2qKU4bOQQM7gxu3+5eCBMBLBDa4CmqCV9MJ10GpnpO7ow7Tk+pVmrkCYG+rM1cWoltxsNjwW3Lpqvmm4FOLLCcc6OzYd0hqQNW2mpp89FO6OExgFJAyXEzkohFIcPy3T6ZnsGi5RCE3aftGr7Q0oxagKI9n+vYy/MOp1vuHla7vw/em0nvicWHK9/ghKowiDsBfjLmvMJlWx2vesMngaLk++k8CpJ4/8tc1Mb61sepf2+hsLUECAon1fwiSExF5KcDncEQILF7muEJySaZilHi7btjBnZ1E2+xPS5T5tri7WeW6D5BgBKYQDdpfqpUxAE619oXfCyoY6UBskggMOJ33G7E/LPkOV8FuQo9ywRsrDSRiG1r1Eajl5yZi0q9BKP14DDmP9rWEvTbmwNP013Ww0Gy5eiwk7XAKNJLCEs45IdyhP8HSczphqBoJ3l51SpwmKw=
     properties :
-     x : 336
-     y : 234
+     x : 520
+     y : 236
      width : 106
      height : 31
     type : 4
@@ -52,7 +52,7 @@ window :
      p_codes :
       -
         code : |1+
-         info("B2 Clicado")
+         info("B2 Clicado 999999999")
         type : 18
       -
         type : 161
