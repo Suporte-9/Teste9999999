@@ -151,6 +151,9 @@ window :
         type : 241
         enabled : false
       -
+        type : 340
+        enabled : false
+      -
         type : 263
         enabled : false
       -
