@@ -52,6 +52,26 @@ window :
      type_code : 4
      p_codes :
       -
+        code : |1+
+         Info("Teste 9999999999999999999999999999999999999999999")
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : BTN_NoName2
+    identifier : 0x2968e99e04707d84
+    internal_properties : CQAAAAkAAAB5hTZD10wZP6WHSFmT+A6S3UfDMwJ47Pyy7joZvKKv+tJ9jpBB1SuHo+NRST7sNtqGL5qs+IYfuMZnKJl5uI9aBVWzE5Nz9bj3G8/+PEd7cd01UZ9+l8TItj0wSxt6vkju3tXWM0hWwBKWFhSDcp3/ws41tblyc/ZjwE5q9mn5L+2dIiF0E2FwD7kjWR72jk4sEV0tazbyzpKJ0Z13he+DwQpcRJSWhvsfDoMwg5aVVtl3YCcmT6NC+tBert9IQxABKGQABAA/ZkKb65gRQ5N9zXDZE3s4jlBOxLkqmP/8UKgW68oSbbdyotUI5G2EtnC/EyeOAOtSBFGsUI4Yu3eqGIw6jALkxWe3cbDg48dncrdLRgGOwBlCySFcmH1YuohQpkPpqypqbYxeBoj0IV6gf7YGI5hENqkuMbEfLhzK/nlMyfCrgsP4XdU2upyw/N4nZRDd8c9ciejH8qtPMroU6WgwXYTwSzghZ4rOO1Kqm5kfuhBAOKJtj62ds6VLqrH4JND+4SFAh1Ddg6TYqjjuN3SHhb9vZDO6Pn9rtkZKjk41PiPg356A2BZNuPVmtb5S35QDWbQVxPGryVYtrg9NQEDDLALgqeRCVUicHegFtQ/sUHzgpHXYVsHWOKGM3z/jSe6Qowtsi2KurlG043uUVkOTEy1WCT8pu20G7rEiL8ECQmX6qPZq/Dgd/pBegzsSpxe1xpkBhaCfsKx3kAZ5vIYRkjN9RkzCIiU8TaSbuOd5iesZc+8NZ7fQPI7T3efqUUvBhDAlSv3urnNKxC/MQ8O+6gR1I5AQMH/HCPVOaiNo6Ggh5LPPBMtlUISaMDeajP2c2VeItlrJqWCGFaKkPmRBsFENWg==
+    properties :
+     x : 113
+     y : 314
+     width : 106
+     height : 31
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
         type : 161
         enabled : false
  menu :
