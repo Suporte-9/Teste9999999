@@ -39,6 +39,12 @@ project :
      internal_properties : CQAAAAkAAAA7F2OnBEHp8vKfgiGh4/+CxfaggEhT3bqidqUG0jffESfFJ5JH/lyfo4R+ejq2QrYeJg==
      physical_name : .\WIN_guilherme.wdw
      type : 2
+   -
+     name : WIN_Menu
+     identifier : 0x4968eb5601ed356d
+     internal_properties : CQAAAAkAAADiWNrO/aoCHTuIrw7OhTIgovHZkbsOqzOKOHppERh8jHx2OwrWa3u8jL0nkRHPqx3nbw==
+     physical_name : .\WIN_Menu.wdw
+     type : 2
   other_elements : []
   array_of_analysis :
    -
