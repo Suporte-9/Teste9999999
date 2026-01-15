@@ -233,16 +233,17 @@ window :
      type_code : 4
      p_codes :
       -
-        code : |1-
-         // Is a row selected?<§rad:1§>
-         if TABLE_pessoa.Select()=-1 then return<§rad:1§>
-         <§rad:1§>
-         // Open the form of pessoa file in modification mode<§rad:1§>
-         WIN_Form_pessoa.Open()<§rad:1§>
-         <§rad:1§>
-         // Refresh the table<§rad:1§>
-         TABLE_pessoa.Display(taCurrentSelection)<§rad:1§>
-         <§rad:1§>
+        code : |1+
+         // Is a row selected?
+         if TABLE_pessoa.Select()=-1 then return
+         
+         // Open the form of pessoa file in modification mode
+         WIN_Form_pessoa.Open()
+         
+         // Refresh the table
+         //TABLE_pessoa.Display(taCurrentSelection)
+         
+         info("Teste 99999")
         type : 18
       -
         type : 161
